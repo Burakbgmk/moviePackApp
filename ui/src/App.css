@@ -1,0 +1,13 @@
+html, body, #app, #app>div {
+  height: 100vh;
+  background-color: black;
+}
+html {
+}
+body {
+  min-height: 100%;
+  color: white;
+}
+body > #root > div  {
+  height: 100vh;
+}

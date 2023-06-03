@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "security.jwt",
+      "type": "com.bluezz.moviepack.security.JwtProperties",
+      "sourceType": "com.bluezz.moviepack.security.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "security.jwt.secret-key",
+      "type": "java.lang.String",
+      "description": "Secret key used for issuing JWT",
+      "sourceType": "com.bluezz.moviepack.security.JwtProperties"
+    }
+  ],
+  "hints": []
+}
